@@ -1,0 +1,769 @@
+Region,Date,Estimated Unemployment Rate,Area,Year
+Andhra Pradesh,2019-05-31,3.65,Rural,2019.0
+Andhra Pradesh,2019-06-30,3.05,Rural,2019.0
+Andhra Pradesh,2019-07-31,3.75,Rural,2019.0
+Andhra Pradesh,2019-08-31,3.32,Rural,2019.0
+Andhra Pradesh,2019-09-30,5.17,Rural,2019.0
+Andhra Pradesh,2019-10-31,3.52,Rural,2019.0
+Andhra Pradesh,2019-11-30,4.12,Rural,2019.0
+Andhra Pradesh,2019-12-31,4.38,Rural,2019.0
+Andhra Pradesh,2020-01-31,4.84,Rural,2020.0
+Andhra Pradesh,2020-02-29,5.91,Rural,2020.0
+Andhra Pradesh,2020-03-31,4.06,Rural,2020.0
+Andhra Pradesh,2020-04-30,16.29,Rural,2020.0
+Andhra Pradesh,2020-05-31,14.46,Rural,2020.0
+Andhra Pradesh,2020-06-30,0.85,Rural,2020.0
+Assam,2019-05-31,4.29,Rural,2019.0
+Assam,2019-06-30,5.08,Rural,2019.0
+Assam,2019-07-31,4.26,Rural,2019.0
+Assam,2019-08-31,5.79,Rural,2019.0
+Assam,2019-09-30,4.46,Rural,2019.0
+Assam,2019-10-31,4.65,Rural,2019.0
+Assam,2019-11-30,4.66,Rural,2019.0
+Assam,2020-01-31,4.29,Rural,2020.0
+Assam,2020-02-29,3.26,Rural,2020.0
+Assam,2020-03-31,3.77,Rural,2020.0
+Assam,2020-05-31,9.38,Rural,2020.0
+Assam,2020-06-30,0.0,Rural,2020.0
+Bihar,2019-05-31,9.27,Rural,2019.0
+Bihar,2019-06-30,10.2,Rural,2019.0
+Bihar,2019-07-31,13.44,Rural,2019.0
+Bihar,2019-08-31,11.0,Rural,2019.0
+Bihar,2019-09-30,8.87,Rural,2019.0
+Bihar,2019-10-31,12.47,Rural,2019.0
+Bihar,2019-11-30,12.4,Rural,2019.0
+Bihar,2019-12-31,10.16,Rural,2019.0
+Bihar,2020-01-31,9.13,Rural,2020.0
+Bihar,2020-02-29,9.61,Rural,2020.0
+Bihar,2020-03-31,15.39,Rural,2020.0
+Bihar,2020-04-30,45.09,Rural,2020.0
+Bihar,2020-05-31,47.26,Rural,2020.0
+Bihar,2020-06-30,20.49,Rural,2020.0
+Chhattisgarh,2019-05-31,9.82,Rural,2019.0
+Chhattisgarh,2019-06-30,6.76,Rural,2019.0
+Chhattisgarh,2019-07-31,4.54,Rural,2019.0
+Chhattisgarh,2019-08-31,4.64,Rural,2019.0
+Chhattisgarh,2019-09-30,8.33,Rural,2019.0
+Chhattisgarh,2019-10-31,6.96,Rural,2019.0
+Chhattisgarh,2019-11-30,2.77,Rural,2019.0
+Chhattisgarh,2019-12-31,6.11,Rural,2019.0
+Chhattisgarh,2020-01-31,9.89,Rural,2020.0
+Chhattisgarh,2020-02-29,7.89,Rural,2020.0
+Chhattisgarh,2020-03-31,7.31,Rural,2020.0
+Chhattisgarh,2020-04-30,0.0,Rural,2020.0
+Chhattisgarh,2020-05-31,7.64,Rural,2020.0
+Chhattisgarh,2020-06-30,10.14,Rural,2020.0
+Delhi,2019-05-31,12.56,Rural,2019.0
+Delhi,2019-06-30,9.33,Rural,2019.0
+Delhi,2019-07-31,11.07,Rural,2019.0
+Delhi,2019-08-31,17.18,Rural,2019.0
+Delhi,2019-09-30,12.5,Rural,2019.0
+Delhi,2019-10-31,15.84,Rural,2019.0
+Delhi,2019-11-30,11.11,Rural,2019.0
+Delhi,2019-12-31,16.97,Rural,2019.0
+Delhi,2020-01-31,13.48,Rural,2020.0
+Delhi,2020-02-29,13.81,Rural,2020.0
+Delhi,2020-03-31,15.18,Rural,2020.0
+Delhi,2020-04-30,20.69,Rural,2020.0
+Delhi,2020-05-31,22.76,Rural,2020.0
+Delhi,2020-06-30,21.14,Rural,2020.0
+Goa,2019-05-31,2.91,Rural,2019.0
+Goa,2019-06-30,5.45,Rural,2019.0
+Goa,2019-07-31,10.98,Rural,2019.0
+Goa,2019-08-31,1.98,Rural,2019.0
+Goa,2019-09-30,3.61,Rural,2019.0
+Goa,2019-10-31,7.21,Rural,2019.0
+Goa,2019-11-30,23.71,Rural,2019.0
+Goa,2019-12-31,3.54,Rural,2019.0
+Goa,2020-01-31,5.38,Rural,2020.0
+Goa,2020-02-29,0.0,Rural,2020.0
+Goa,2020-04-30,15.91,Rural,2020.0
+Goa,2020-05-31,20.0,Rural,2020.0
+Gujarat,2019-05-31,2.88,Rural,2019.0
+Gujarat,2019-06-30,4.77,Rural,2019.0
+Gujarat,2019-07-31,4.58,Rural,2019.0
+Gujarat,2019-08-31,3.7,Rural,2019.0
+Gujarat,2019-09-30,6.29,Rural,2019.0
+Gujarat,2019-10-31,4.91,Rural,2019.0
+Gujarat,2019-11-30,4.68,Rural,2019.0
+Gujarat,2019-12-31,3.46,Rural,2019.0
+Gujarat,2020-01-31,5.35,Rural,2020.0
+Gujarat,2020-02-29,6.64,Rural,2020.0
+Gujarat,2020-03-31,7.59,Rural,2020.0
+Gujarat,2020-04-30,12.0,Rural,2020.0
+Gujarat,2020-05-31,14.58,Rural,2020.0
+Gujarat,2020-06-30,1.41,Rural,2020.0
+Haryana,2019-05-31,14.54,Rural,2019.0
+Haryana,2019-06-30,23.08,Rural,2019.0
+Haryana,2019-07-31,16.22,Rural,2019.0
+Haryana,2019-08-31,30.94,Rural,2019.0
+Haryana,2019-09-30,16.36,Rural,2019.0
+Haryana,2019-10-31,24.17,Rural,2019.0
+Haryana,2019-11-30,16.59,Rural,2019.0
+Haryana,2019-12-31,29.56,Rural,2019.0
+Haryana,2020-01-31,16.21,Rural,2020.0
+Haryana,2020-02-29,27.19,Rural,2020.0
+Haryana,2020-03-31,23.92,Rural,2020.0
+Haryana,2020-04-30,41.61,Rural,2020.0
+Haryana,2020-05-31,34.22,Rural,2020.0
+Haryana,2020-06-30,35.57,Rural,2020.0
+Himachal Pradesh,2019-05-31,13.68,Rural,2019.0
+Himachal Pradesh,2019-06-30,11.43,Rural,2019.0
+Himachal Pradesh,2019-07-31,20.59,Rural,2019.0
+Himachal Pradesh,2019-08-31,18.56,Rural,2019.0
+Himachal Pradesh,2019-09-30,15.98,Rural,2019.0
+Himachal Pradesh,2019-10-31,15.81,Rural,2019.0
+Himachal Pradesh,2019-11-30,22.86,Rural,2019.0
+Himachal Pradesh,2019-12-31,19.46,Rural,2019.0
+Himachal Pradesh,2020-01-31,16.67,Rural,2020.0
+Himachal Pradesh,2020-02-29,15.42,Rural,2020.0
+Himachal Pradesh,2020-03-31,17.71,Rural,2020.0
+Himachal Pradesh,2020-04-30,2.13,Rural,2020.0
+Himachal Pradesh,2020-05-31,25.64,Rural,2020.0
+Himachal Pradesh,2020-06-30,1.12,Rural,2020.0
+Jammu & Kashmir,2019-05-31,12.78,Rural,2019.0
+Jammu & Kashmir,2019-06-30,12.09,Rural,2019.0
+Jammu & Kashmir,2019-07-31,13.67,Rural,2019.0
+Jammu & Kashmir,2019-08-31,11.32,Rural,2019.0
+Jammu & Kashmir,2019-10-31,19.27,Rural,2019.0
+Jammu & Kashmir,2019-11-30,14.73,Rural,2019.0
+Jammu & Kashmir,2020-01-31,22.19,Rural,2020.0
+Jammu & Kashmir,2020-02-29,21.23,Rural,2020.0
+Jammu & Kashmir,2020-03-31,16.0,Rural,2020.0
+Jammu & Kashmir,2020-05-31,2.22,Rural,2020.0
+Jammu & Kashmir,2020-06-30,18.97,Rural,2020.0
+Jharkhand,2019-05-31,7.11,Rural,2019.0
+Jharkhand,2019-06-30,8.46,Rural,2019.0
+Jharkhand,2019-07-31,9.98,Rural,2019.0
+Jharkhand,2019-08-31,12.06,Rural,2019.0
+Jharkhand,2019-09-30,7.12,Rural,2019.0
+Jharkhand,2019-10-31,6.57,Rural,2019.0
+Jharkhand,2019-11-30,8.07,Rural,2019.0
+Jharkhand,2019-12-31,15.15,Rural,2019.0
+Jharkhand,2020-01-31,6.16,Rural,2020.0
+Jharkhand,2020-02-29,9.06,Rural,2020.0
+Jharkhand,2020-03-31,5.01,Rural,2020.0
+Jharkhand,2020-04-30,41.72,Rural,2020.0
+Jharkhand,2020-05-31,55.1,Rural,2020.0
+Jharkhand,2020-06-30,21.53,Rural,2020.0
+Karnataka,2019-05-31,5.46,Rural,2019.0
+Karnataka,2019-06-30,5.98,Rural,2019.0
+Karnataka,2019-07-31,0.52,Rural,2019.0
+Karnataka,2019-08-31,0.37,Rural,2019.0
+Karnataka,2019-09-30,3.2,Rural,2019.0
+Karnataka,2019-10-31,7.13,Rural,2019.0
+Karnataka,2019-11-30,1.19,Rural,2019.0
+Karnataka,2019-12-31,0.41,Rural,2019.0
+Karnataka,2020-01-31,2.57,Rural,2020.0
+Karnataka,2020-02-29,4.11,Rural,2020.0
+Karnataka,2020-03-31,2.39,Rural,2020.0
+Karnataka,2020-04-30,33.17,Rural,2020.0
+Karnataka,2020-05-31,23.72,Rural,2020.0
+Karnataka,2020-06-30,10.92,Rural,2020.0
+Kerala,2019-05-31,6.63,Rural,2019.0
+Kerala,2019-06-30,9.0,Rural,2019.0
+Kerala,2019-07-31,4.95,Rural,2019.0
+Kerala,2019-08-31,10.32,Rural,2019.0
+Kerala,2019-09-30,5.35,Rural,2019.0
+Kerala,2019-10-31,9.14,Rural,2019.0
+Kerala,2019-11-30,5.0,Rural,2019.0
+Kerala,2019-12-31,10.77,Rural,2019.0
+Kerala,2020-01-31,4.11,Rural,2020.0
+Kerala,2020-02-29,8.91,Rural,2020.0
+Kerala,2020-03-31,8.85,Rural,2020.0
+Kerala,2020-04-30,10.71,Rural,2020.0
+Kerala,2020-05-31,23.38,Rural,2020.0
+Kerala,2020-06-30,27.66,Rural,2020.0
+Madhya Pradesh,2019-05-31,3.63,Rural,2019.0
+Madhya Pradesh,2019-06-30,4.25,Rural,2019.0
+Madhya Pradesh,2019-07-31,3.92,Rural,2019.0
+Madhya Pradesh,2019-08-31,4.94,Rural,2019.0
+Madhya Pradesh,2019-09-30,3.08,Rural,2019.0
+Madhya Pradesh,2019-10-31,2.98,Rural,2019.0
+Madhya Pradesh,2019-11-30,2.72,Rural,2019.0
+Madhya Pradesh,2019-12-31,2.94,Rural,2019.0
+Madhya Pradesh,2020-01-31,3.66,Rural,2020.0
+Madhya Pradesh,2020-02-29,4.42,Rural,2020.0
+Madhya Pradesh,2020-03-31,1.19,Rural,2020.0
+Madhya Pradesh,2020-04-30,12.5,Rural,2020.0
+Madhya Pradesh,2020-05-31,22.46,Rural,2020.0
+Madhya Pradesh,2020-06-30,6.46,Rural,2020.0
+Maharashtra,2019-05-31,3.67,Rural,2019.0
+Maharashtra,2019-06-30,4.34,Rural,2019.0
+Maharashtra,2019-07-31,3.66,Rural,2019.0
+Maharashtra,2019-08-31,3.76,Rural,2019.0
+Maharashtra,2019-09-30,4.4,Rural,2019.0
+Maharashtra,2019-10-31,3.81,Rural,2019.0
+Maharashtra,2019-11-30,3.68,Rural,2019.0
+Maharashtra,2019-12-31,3.03,Rural,2019.0
+Maharashtra,2020-01-31,3.8,Rural,2020.0
+Maharashtra,2020-02-29,4.24,Rural,2020.0
+Maharashtra,2020-03-31,5.38,Rural,2020.0
+Maharashtra,2020-04-30,25.28,Rural,2020.0
+Maharashtra,2020-05-31,16.89,Rural,2020.0
+Maharashtra,2020-06-30,9.4,Rural,2020.0
+Meghalaya,2019-05-31,3.16,Rural,2019.0
+Meghalaya,2019-06-30,4.23,Rural,2019.0
+Meghalaya,2019-07-31,1.03,Rural,2019.0
+Meghalaya,2019-08-31,0.52,Rural,2019.0
+Meghalaya,2019-09-30,0.24,Rural,2019.0
+Meghalaya,2019-10-31,3.7,Rural,2019.0
+Meghalaya,2019-11-30,1.5,Rural,2019.0
+Meghalaya,2019-12-31,1.8,Rural,2019.0
+Meghalaya,2020-01-31,0.97,Rural,2020.0
+Meghalaya,2020-02-29,2.76,Rural,2020.0
+Meghalaya,2020-03-31,1.28,Rural,2020.0
+Meghalaya,2020-04-30,8.38,Rural,2020.0
+Meghalaya,2020-05-31,3.73,Rural,2020.0
+Meghalaya,2020-06-30,1.35,Rural,2020.0
+Odisha,2019-05-31,4.17,Rural,2019.0
+Odisha,2019-06-30,4.71,Rural,2019.0
+Odisha,2019-07-31,3.31,Rural,2019.0
+Odisha,2019-08-31,3.68,Rural,2019.0
+Odisha,2019-09-30,4.31,Rural,2019.0
+Odisha,2019-10-31,4.28,Rural,2019.0
+Odisha,2019-11-30,4.72,Rural,2019.0
+Odisha,2019-12-31,4.67,Rural,2019.0
+Odisha,2020-01-31,1.81,Rural,2020.0
+Odisha,2020-02-29,3.31,Rural,2020.0
+Odisha,2020-03-31,15.09,Rural,2020.0
+Odisha,2020-04-30,24.48,Rural,2020.0
+Odisha,2020-05-31,9.45,Rural,2020.0
+Odisha,2020-06-30,4.59,Rural,2020.0
+Puducherry,2019-05-31,0.0,Rural,2019.0
+Puducherry,2019-06-30,0.0,Rural,2019.0
+Puducherry,2019-07-31,0.0,Rural,2019.0
+Puducherry,2019-08-31,4.85,Rural,2019.0
+Puducherry,2019-09-30,0.0,Rural,2019.0
+Puducherry,2019-10-31,1.18,Rural,2019.0
+Puducherry,2019-11-30,0.0,Rural,2019.0
+Puducherry,2019-12-31,1.99,Rural,2019.0
+Puducherry,2020-01-31,0.58,Rural,2020.0
+Puducherry,2020-02-29,1.74,Rural,2020.0
+Puducherry,2020-03-31,2.31,Rural,2020.0
+Puducherry,2020-04-30,74.51,Rural,2020.0
+Punjab,2019-05-31,9.17,Rural,2019.0
+Punjab,2019-06-30,12.21,Rural,2019.0
+Punjab,2019-07-31,9.64,Rural,2019.0
+Punjab,2019-08-31,6.69,Rural,2019.0
+Punjab,2019-09-30,8.59,Rural,2019.0
+Punjab,2019-10-31,12.56,Rural,2019.0
+Punjab,2019-11-30,7.07,Rural,2019.0
+Punjab,2019-12-31,6.13,Rural,2019.0
+Punjab,2020-01-31,9.69,Rural,2020.0
+Punjab,2020-02-29,10.41,Rural,2020.0
+Punjab,2020-03-31,10.51,Rural,2020.0
+Punjab,2020-04-30,3.69,Rural,2020.0
+Punjab,2020-05-31,40.59,Rural,2020.0
+Punjab,2020-06-30,20.0,Rural,2020.0
+Rajasthan,2019-05-31,4.03,Rural,2019.0
+Rajasthan,2019-06-30,13.7,Rural,2019.0
+Rajasthan,2019-07-31,9.7,Rural,2019.0
+Rajasthan,2019-08-31,12.5,Rural,2019.0
+Rajasthan,2019-09-30,5.45,Rural,2019.0
+Rajasthan,2019-10-31,14.66,Rural,2019.0
+Rajasthan,2019-11-30,10.47,Rural,2019.0
+Rajasthan,2019-12-31,13.96,Rural,2019.0
+Rajasthan,2020-01-31,8.0,Rural,2020.0
+Rajasthan,2020-02-29,14.48,Rural,2020.0
+Rajasthan,2020-03-31,9.47,Rural,2020.0
+Rajasthan,2020-04-30,12.25,Rural,2020.0
+Rajasthan,2020-05-31,10.45,Rural,2020.0
+Rajasthan,2020-06-30,13.86,Rural,2020.0
+Sikkim,2019-10-31,5.48,Rural,2019.0
+Sikkim,2019-11-30,13.11,Rural,2019.0
+Sikkim,2019-12-31,1.0,Rural,2019.0
+Sikkim,2020-04-30,0.0,Rural,2020.0
+Sikkim,2020-06-30,5.81,Rural,2020.0
+Tamil Nadu,2019-05-31,0.97,Rural,2019.0
+Tamil Nadu,2019-06-30,0.92,Rural,2019.0
+Tamil Nadu,2019-07-31,6.01,Rural,2019.0
+Tamil Nadu,2019-08-31,2.91,Rural,2019.0
+Tamil Nadu,2019-09-30,1.71,Rural,2019.0
+Tamil Nadu,2019-10-31,1.46,Rural,2019.0
+Tamil Nadu,2019-11-30,2.46,Rural,2019.0
+Tamil Nadu,2019-12-31,3.73,Rural,2019.0
+Tamil Nadu,2020-01-31,1.18,Rural,2020.0
+Tamil Nadu,2020-02-29,1.17,Rural,2020.0
+Tamil Nadu,2020-03-31,6.36,Rural,2020.0
+Tamil Nadu,2020-04-30,53.19,Rural,2020.0
+Tamil Nadu,2020-05-31,38.73,Rural,2020.0
+Tamil Nadu,2020-06-30,2.06,Rural,2020.0
+Telangana,2019-05-31,2.23,Rural,2019.0
+Telangana,2019-06-30,5.92,Rural,2019.0
+Telangana,2019-07-31,2.45,Rural,2019.0
+Telangana,2019-08-31,1.4,Rural,2019.0
+Telangana,2019-09-30,5.49,Rural,2019.0
+Telangana,2019-10-31,7.29,Rural,2019.0
+Telangana,2019-11-30,6.47,Rural,2019.0
+Telangana,2019-12-31,1.35,Rural,2019.0
+Telangana,2020-01-31,5.02,Rural,2020.0
+Telangana,2020-02-29,9.02,Rural,2020.0
+Telangana,2020-03-31,5.63,Rural,2020.0
+Telangana,2020-04-30,4.51,Rural,2020.0
+Telangana,2020-05-31,34.01,Rural,2020.0
+Telangana,2020-06-30,19.3,Rural,2020.0
+Tripura,2019-05-31,29.25,Rural,2019.0
+Tripura,2019-06-30,26.64,Rural,2019.0
+Tripura,2019-07-31,22.47,Rural,2019.0
+Tripura,2019-08-31,25.49,Rural,2019.0
+Tripura,2019-09-30,30.23,Rural,2019.0
+Tripura,2019-10-31,27.54,Rural,2019.0
+Tripura,2019-11-30,25.25,Rural,2019.0
+Tripura,2019-12-31,26.53,Rural,2019.0
+Tripura,2020-01-31,31.91,Rural,2020.0
+Tripura,2020-02-29,26.22,Rural,2020.0
+Tripura,2020-03-31,31.61,Rural,2020.0
+Tripura,2020-04-30,43.64,Rural,2020.0
+Tripura,2020-05-31,14.71,Rural,2020.0
+Tripura,2020-06-30,18.84,Rural,2020.0
+Uttar Pradesh,2019-05-31,10.26,Rural,2019.0
+Uttar Pradesh,2019-06-30,11.13,Rural,2019.0
+Uttar Pradesh,2019-07-31,9.19,Rural,2019.0
+Uttar Pradesh,2019-08-31,11.47,Rural,2019.0
+Uttar Pradesh,2019-09-30,6.45,Rural,2019.0
+Uttar Pradesh,2019-10-31,10.18,Rural,2019.0
+Uttar Pradesh,2019-11-30,6.94,Rural,2019.0
+Uttar Pradesh,2019-12-31,8.43,Rural,2019.0
+Uttar Pradesh,2020-01-31,6.06,Rural,2020.0
+Uttar Pradesh,2020-02-29,8.12,Rural,2020.0
+Uttar Pradesh,2020-03-31,9.37,Rural,2020.0
+Uttar Pradesh,2020-04-30,19.92,Rural,2020.0
+Uttar Pradesh,2020-05-31,16.89,Rural,2020.0
+Uttar Pradesh,2020-06-30,8.51,Rural,2020.0
+Uttarakhand,2019-05-31,1.63,Rural,2019.0
+Uttarakhand,2019-06-30,4.65,Rural,2019.0
+Uttarakhand,2019-07-31,5.74,Rural,2019.0
+Uttarakhand,2019-08-31,6.11,Rural,2019.0
+Uttarakhand,2019-09-30,3.47,Rural,2019.0
+Uttarakhand,2019-10-31,4.83,Rural,2019.0
+Uttarakhand,2019-11-30,5.56,Rural,2019.0
+Uttarakhand,2019-12-31,4.52,Rural,2019.0
+Uttarakhand,2020-01-31,4.17,Rural,2020.0
+Uttarakhand,2020-02-29,4.85,Rural,2020.0
+Uttarakhand,2020-04-30,3.66,Rural,2020.0
+Uttarakhand,2020-05-31,3.57,Rural,2020.0
+Uttarakhand,2020-06-30,10.71,Rural,2020.0
+West Bengal,2019-05-31,6.02,Rural,2019.0
+West Bengal,2019-06-30,5.85,Rural,2019.0
+West Bengal,2019-07-31,5.62,Rural,2019.0
+West Bengal,2019-08-31,5.58,Rural,2019.0
+West Bengal,2019-09-30,5.26,Rural,2019.0
+West Bengal,2019-10-31,6.78,Rural,2019.0
+West Bengal,2019-11-30,5.83,Rural,2019.0
+West Bengal,2019-12-31,5.79,Rural,2019.0
+West Bengal,2020-01-31,6.79,Rural,2020.0
+West Bengal,2020-02-29,3.78,Rural,2020.0
+West Bengal,2020-03-31,7.02,Rural,2020.0
+West Bengal,2020-04-30,18.32,Rural,2020.0
+West Bengal,2020-05-31,18.43,Rural,2020.0
+West Bengal,2020-06-30,4.94,Rural,2020.0
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Andhra Pradesh,2019-05-31,6.09,Urban,2019.0
+Andhra Pradesh,2019-06-30,3.8,Urban,2019.0
+Andhra Pradesh,2019-07-31,5.64,Urban,2019.0
+Andhra Pradesh,2019-08-31,4.61,Urban,2019.0
+Andhra Pradesh,2019-09-30,6.01,Urban,2019.0
+Andhra Pradesh,2019-10-31,4.7,Urban,2019.0
+Andhra Pradesh,2019-11-30,7.54,Urban,2019.0
+Andhra Pradesh,2019-12-31,7.88,Urban,2019.0
+Andhra Pradesh,2020-01-31,7.11,Urban,2020.0
+Andhra Pradesh,2020-02-29,5.66,Urban,2020.0
+Andhra Pradesh,2020-03-31,9.88,Urban,2020.0
+Andhra Pradesh,2020-04-30,32.3,Urban,2020.0
+Andhra Pradesh,2020-05-31,24.91,Urban,2020.0
+Andhra Pradesh,2020-06-30,5.86,Urban,2020.0
+Assam,2019-05-31,7.87,Urban,2019.0
+Assam,2019-06-30,9.89,Urban,2019.0
+Assam,2019-07-31,3.21,Urban,2019.0
+Assam,2019-08-31,10.39,Urban,2019.0
+Assam,2019-09-30,9.26,Urban,2019.0
+Assam,2019-10-31,11.17,Urban,2019.0
+Assam,2019-11-30,6.31,Urban,2019.0
+Assam,2019-12-31,5.02,Urban,2019.0
+Assam,2020-01-31,7.24,Urban,2020.0
+Assam,2020-02-29,9.98,Urban,2020.0
+Assam,2020-03-31,10.34,Urban,2020.0
+Assam,2020-04-30,8.37,Urban,2020.0
+Assam,2020-05-31,10.77,Urban,2020.0
+Assam,2020-06-30,3.42,Urban,2020.0
+Bihar,2019-05-31,19.9,Urban,2019.0
+Bihar,2019-06-30,13.29,Urban,2019.0
+Bihar,2019-07-31,16.41,Urban,2019.0
+Bihar,2019-08-31,17.66,Urban,2019.0
+Bihar,2019-09-30,20.46,Urban,2019.0
+Bihar,2019-10-31,14.06,Urban,2019.0
+Bihar,2019-11-30,17.62,Urban,2019.0
+Bihar,2019-12-31,14.91,Urban,2019.0
+Bihar,2020-01-31,20.69,Urban,2020.0
+Bihar,2020-02-29,15.11,Urban,2020.0
+Bihar,2020-03-31,15.73,Urban,2020.0
+Bihar,2020-04-30,58.77,Urban,2020.0
+Bihar,2020-05-31,37.87,Urban,2020.0
+Bihar,2020-06-30,12.45,Urban,2020.0
+Chandigarh,2019-05-31,18.35,Urban,2019.0
+Chandigarh,2019-06-30,12.4,Urban,2019.0
+Chandigarh,2019-07-31,21.8,Urban,2019.0
+Chandigarh,2019-08-31,9.52,Urban,2019.0
+Chandigarh,2019-09-30,20.14,Urban,2019.0
+Chandigarh,2019-10-31,13.99,Urban,2019.0
+Chandigarh,2019-11-30,22.05,Urban,2019.0
+Chandigarh,2019-12-31,8.33,Urban,2019.0
+Chandigarh,2020-01-31,20.0,Urban,2020.0
+Chandigarh,2020-02-29,16.67,Urban,2020.0
+Chandigarh,2020-03-31,21.43,Urban,2020.0
+Chandigarh,2020-06-30,7.22,Urban,2020.0
+Chhattisgarh,2019-05-31,9.77,Urban,2019.0
+Chhattisgarh,2019-06-30,11.77,Urban,2019.0
+Chhattisgarh,2019-07-31,8.17,Urban,2019.0
+Chhattisgarh,2019-08-31,6.29,Urban,2019.0
+Chhattisgarh,2019-09-30,9.46,Urban,2019.0
+Chhattisgarh,2019-10-31,10.27,Urban,2019.0
+Chhattisgarh,2019-11-30,8.32,Urban,2019.0
+Chhattisgarh,2019-12-31,3.57,Urban,2019.0
+Chhattisgarh,2020-01-31,9.01,Urban,2020.0
+Chhattisgarh,2020-02-29,9.79,Urban,2020.0
+Chhattisgarh,2020-03-31,8.21,Urban,2020.0
+Chhattisgarh,2020-04-30,20.13,Urban,2020.0
+Chhattisgarh,2020-05-31,24.1,Urban,2020.0
+Chhattisgarh,2020-06-30,27.07,Urban,2020.0
+Delhi,2019-05-31,12.31,Urban,2019.0
+Delhi,2019-06-30,12.76,Urban,2019.0
+Delhi,2019-07-31,14.68,Urban,2019.0
+Delhi,2019-08-31,13.52,Urban,2019.0
+Delhi,2019-09-30,20.59,Urban,2019.0
+Delhi,2019-10-31,12.41,Urban,2019.0
+Delhi,2019-11-30,16.11,Urban,2019.0
+Delhi,2019-12-31,11.07,Urban,2019.0
+Delhi,2020-01-31,22.45,Urban,2020.0
+Delhi,2020-02-29,14.86,Urban,2020.0
+Delhi,2020-03-31,17.09,Urban,2020.0
+Delhi,2020-04-30,16.51,Urban,2020.0
+Delhi,2020-05-31,45.78,Urban,2020.0
+Delhi,2020-06-30,18.11,Urban,2020.0
+Goa,2019-05-31,2.75,Urban,2019.0
+Goa,2019-06-30,13.33,Urban,2019.0
+Goa,2019-07-31,12.28,Urban,2019.0
+Goa,2019-08-31,4.9,Urban,2019.0
+Goa,2019-09-30,3.16,Urban,2019.0
+Goa,2019-10-31,12.31,Urban,2019.0
+Goa,2019-11-30,25.2,Urban,2019.0
+Goa,2019-12-31,16.22,Urban,2019.0
+Goa,2020-01-31,10.92,Urban,2020.0
+Goa,2020-02-29,4.31,Urban,2020.0
+Goa,2020-03-31,4.76,Urban,2020.0
+Goa,2020-04-30,11.76,Urban,2020.0
+Gujarat,2019-05-31,4.09,Urban,2019.0
+Gujarat,2019-06-30,6.31,Urban,2019.0
+Gujarat,2019-07-31,5.15,Urban,2019.0
+Gujarat,2019-08-31,4.2,Urban,2019.0
+Gujarat,2019-09-30,5.96,Urban,2019.0
+Gujarat,2019-10-31,5.45,Urban,2019.0
+Gujarat,2019-11-30,7.53,Urban,2019.0
+Gujarat,2019-12-31,5.71,Urban,2019.0
+Gujarat,2020-01-31,5.82,Urban,2020.0
+Gujarat,2020-02-29,6.04,Urban,2020.0
+Gujarat,2020-03-31,5.39,Urban,2020.0
+Gujarat,2020-04-30,25.94,Urban,2020.0
+Gujarat,2020-05-31,11.62,Urban,2020.0
+Gujarat,2020-06-30,4.54,Urban,2020.0
+Haryana,2019-05-31,24.67,Urban,2019.0
+Haryana,2019-06-30,20.42,Urban,2019.0
+Haryana,2019-07-31,25.45,Urban,2019.0
+Haryana,2019-08-31,24.19,Urban,2019.0
+Haryana,2019-09-30,26.84,Urban,2019.0
+Haryana,2019-10-31,21.04,Urban,2019.0
+Haryana,2019-11-30,27.06,Urban,2019.0
+Haryana,2019-12-31,23.65,Urban,2019.0
+Haryana,2020-01-31,27.24,Urban,2020.0
+Haryana,2020-02-29,23.29,Urban,2020.0
+Haryana,2020-03-31,27.14,Urban,2020.0
+Haryana,2020-04-30,46.89,Urban,2020.0
+Haryana,2020-05-31,38.46,Urban,2020.0
+Haryana,2020-06-30,29.41,Urban,2020.0
+Himachal Pradesh,2019-05-31,10.88,Urban,2019.0
+Himachal Pradesh,2019-06-30,21.43,Urban,2019.0
+Himachal Pradesh,2019-07-31,21.51,Urban,2019.0
+Himachal Pradesh,2019-08-31,24.48,Urban,2019.0
+Himachal Pradesh,2019-09-30,12.0,Urban,2019.0
+Himachal Pradesh,2019-10-31,23.77,Urban,2019.0
+Himachal Pradesh,2019-11-30,27.27,Urban,2019.0
+Himachal Pradesh,2019-12-31,25.32,Urban,2019.0
+Himachal Pradesh,2020-01-31,18.15,Urban,2020.0
+Himachal Pradesh,2020-02-29,27.31,Urban,2020.0
+Himachal Pradesh,2020-03-31,26.44,Urban,2020.0
+Himachal Pradesh,2020-04-30,2.7,Urban,2020.0
+Himachal Pradesh,2020-05-31,50.0,Urban,2020.0
+Himachal Pradesh,2020-06-30,10.81,Urban,2020.0
+Jammu & Kashmir,2019-05-31,23.04,Urban,2019.0
+Jammu & Kashmir,2019-06-30,19.88,Urban,2019.0
+Jammu & Kashmir,2019-07-31,21.55,Urban,2019.0
+Jammu & Kashmir,2019-10-31,24.06,Urban,2019.0
+Jammu & Kashmir,2019-11-30,14.29,Urban,2019.0
+Jammu & Kashmir,2019-12-31,7.02,Urban,2019.0
+Jammu & Kashmir,2020-01-31,18.54,Urban,2020.0
+Jammu & Kashmir,2020-02-29,19.86,Urban,2020.0
+Jammu & Kashmir,2020-03-31,14.29,Urban,2020.0
+Jammu & Kashmir,2020-05-31,12.96,Urban,2020.0
+Jharkhand,2019-05-31,17.23,Urban,2019.0
+Jharkhand,2019-06-30,20.51,Urban,2019.0
+Jharkhand,2019-07-31,15.67,Urban,2019.0
+Jharkhand,2019-08-31,20.25,Urban,2019.0
+Jharkhand,2019-09-30,21.16,Urban,2019.0
+Jharkhand,2019-10-31,19.05,Urban,2019.0
+Jharkhand,2019-11-30,17.34,Urban,2019.0
+Jharkhand,2019-12-31,22.01,Urban,2019.0
+Jharkhand,2020-01-31,22.96,Urban,2020.0
+Jharkhand,2020-02-29,19.67,Urban,2020.0
+Jharkhand,2020-03-31,16.4,Urban,2020.0
+Jharkhand,2020-04-30,61.48,Urban,2020.0
+Jharkhand,2020-05-31,70.17,Urban,2020.0
+Jharkhand,2020-06-30,19.38,Urban,2020.0
+Karnataka,2019-05-31,6.56,Urban,2019.0
+Karnataka,2019-06-30,5.0,Urban,2019.0
+Karnataka,2019-07-31,2.29,Urban,2019.0
+Karnataka,2019-08-31,1.27,Urban,2019.0
+Karnataka,2019-09-30,3.57,Urban,2019.0
+Karnataka,2019-10-31,3.87,Urban,2019.0
+Karnataka,2019-11-30,3.44,Urban,2019.0
+Karnataka,2019-12-31,1.56,Urban,2019.0
+Karnataka,2020-01-31,3.31,Urban,2020.0
+Karnataka,2020-02-29,2.88,Urban,2020.0
+Karnataka,2020-03-31,4.92,Urban,2020.0
+Karnataka,2020-04-30,25.12,Urban,2020.0
+Karnataka,2020-05-31,15.88,Urban,2020.0
+Karnataka,2020-06-30,6.12,Urban,2020.0
+Kerala,2019-05-31,6.11,Urban,2019.0
+Kerala,2019-06-30,6.67,Urban,2019.0
+Kerala,2019-07-31,7.58,Urban,2019.0
+Kerala,2019-08-31,7.69,Urban,2019.0
+Kerala,2019-09-30,5.52,Urban,2019.0
+Kerala,2019-10-31,5.35,Urban,2019.0
+Kerala,2019-11-30,6.71,Urban,2019.0
+Kerala,2019-12-31,7.31,Urban,2019.0
+Kerala,2020-01-31,6.65,Urban,2020.0
+Kerala,2020-02-29,6.08,Urban,2020.0
+Kerala,2020-03-31,9.14,Urban,2020.0
+Kerala,2020-04-30,21.43,Urban,2020.0
+Kerala,2020-05-31,30.28,Urban,2020.0
+Kerala,2020-06-30,12.17,Urban,2020.0
+Madhya Pradesh,2019-05-31,3.91,Urban,2019.0
+Madhya Pradesh,2019-06-30,6.38,Urban,2019.0
+Madhya Pradesh,2019-07-31,7.38,Urban,2019.0
+Madhya Pradesh,2019-08-31,6.82,Urban,2019.0
+Madhya Pradesh,2019-09-30,7.0,Urban,2019.0
+Madhya Pradesh,2019-10-31,4.4,Urban,2019.0
+Madhya Pradesh,2019-11-30,6.06,Urban,2019.0
+Madhya Pradesh,2019-12-31,6.2,Urban,2019.0
+Madhya Pradesh,2020-01-31,5.17,Urban,2020.0
+Madhya Pradesh,2020-02-29,4.96,Urban,2020.0
+Madhya Pradesh,2020-03-31,4.8,Urban,2020.0
+Madhya Pradesh,2020-04-30,11.94,Urban,2020.0
+Madhya Pradesh,2020-05-31,40.49,Urban,2020.0
+Madhya Pradesh,2020-06-30,12.72,Urban,2020.0
+Maharashtra,2019-05-31,6.08,Urban,2019.0
+Maharashtra,2019-06-30,6.46,Urban,2019.0
+Maharashtra,2019-07-31,6.35,Urban,2019.0
+Maharashtra,2019-08-31,7.57,Urban,2019.0
+Maharashtra,2019-09-30,7.6,Urban,2019.0
+Maharashtra,2019-10-31,7.51,Urban,2019.0
+Maharashtra,2019-11-30,7.6,Urban,2019.0
+Maharashtra,2019-12-31,7.83,Urban,2019.0
+Maharashtra,2020-01-31,6.67,Urban,2020.0
+Maharashtra,2020-02-29,5.34,Urban,2020.0
+Maharashtra,2020-03-31,6.34,Urban,2020.0
+Maharashtra,2020-04-30,14.99,Urban,2020.0
+Maharashtra,2020-05-31,15.92,Urban,2020.0
+Maharashtra,2020-06-30,10.01,Urban,2020.0
+Meghalaya,2019-05-31,8.4,Urban,2019.0
+Meghalaya,2019-06-30,8.66,Urban,2019.0
+Meghalaya,2019-07-31,4.43,Urban,2019.0
+Meghalaya,2019-08-31,5.8,Urban,2019.0
+Meghalaya,2019-09-30,5.3,Urban,2019.0
+Meghalaya,2019-10-31,7.2,Urban,2019.0
+Meghalaya,2019-11-30,3.02,Urban,2019.0
+Meghalaya,2019-12-31,5.21,Urban,2019.0
+Meghalaya,2020-01-31,4.76,Urban,2020.0
+Meghalaya,2020-02-29,7.37,Urban,2020.0
+Meghalaya,2020-03-31,2.8,Urban,2020.0
+Meghalaya,2020-04-30,17.39,Urban,2020.0
+Meghalaya,2020-05-31,14.58,Urban,2020.0
+Odisha,2019-05-31,2.95,Urban,2019.0
+Odisha,2019-06-30,2.63,Urban,2019.0
+Odisha,2019-07-31,1.78,Urban,2019.0
+Odisha,2019-08-31,3.5,Urban,2019.0
+Odisha,2019-09-30,3.78,Urban,2019.0
+Odisha,2019-10-31,4.5,Urban,2019.0
+Odisha,2019-11-30,2.23,Urban,2019.0
+Odisha,2019-12-31,3.36,Urban,2019.0
+Odisha,2020-01-31,2.28,Urban,2020.0
+Odisha,2020-02-29,2.19,Urban,2020.0
+Odisha,2020-03-31,3.96,Urban,2020.0
+Odisha,2020-04-30,20.5,Urban,2020.0
+Odisha,2020-05-31,10.0,Urban,2020.0
+Odisha,2020-06-30,2.18,Urban,2020.0
+Puducherry,2019-05-31,1.25,Urban,2019.0
+Puducherry,2019-06-30,0.0,Urban,2019.0
+Puducherry,2019-07-31,0.0,Urban,2019.0
+Puducherry,2019-08-31,8.95,Urban,2019.0
+Puducherry,2019-09-30,1.22,Urban,2019.0
+Puducherry,2019-10-31,1.17,Urban,2019.0
+Puducherry,2019-11-30,1.37,Urban,2019.0
+Puducherry,2019-12-31,5.21,Urban,2019.0
+Puducherry,2020-01-31,0.57,Urban,2020.0
+Puducherry,2020-02-29,1.78,Urban,2020.0
+Puducherry,2020-03-31,0.62,Urban,2020.0
+Puducherry,2020-04-30,76.74,Urban,2020.0
+Puducherry,2020-05-31,75.0,Urban,2020.0
+Puducherry,2020-06-30,4.55,Urban,2020.0
+Punjab,2019-05-31,13.49,Urban,2019.0
+Punjab,2019-06-30,13.17,Urban,2019.0
+Punjab,2019-07-31,11.61,Urban,2019.0
+Punjab,2019-08-31,11.99,Urban,2019.0
+Punjab,2019-09-30,15.69,Urban,2019.0
+Punjab,2019-10-31,13.75,Urban,2019.0
+Punjab,2019-11-30,10.39,Urban,2019.0
+Punjab,2019-12-31,11.97,Urban,2019.0
+Punjab,2020-01-31,13.68,Urban,2020.0
+Punjab,2020-02-29,11.99,Urban,2020.0
+Punjab,2020-03-31,9.97,Urban,2020.0
+Punjab,2020-04-30,1.13,Urban,2020.0
+Punjab,2020-05-31,20.54,Urban,2020.0
+Punjab,2020-06-30,10.55,Urban,2020.0
+Rajasthan,2019-05-31,13.62,Urban,2019.0
+Rajasthan,2019-06-30,14.36,Urban,2019.0
+Rajasthan,2019-07-31,11.67,Urban,2019.0
+Rajasthan,2019-08-31,14.71,Urban,2019.0
+Rajasthan,2019-09-30,12.63,Urban,2019.0
+Rajasthan,2019-10-31,13.02,Urban,2019.0
+Rajasthan,2019-11-30,14.3,Urban,2019.0
+Rajasthan,2019-12-31,18.04,Urban,2019.0
+Rajasthan,2020-01-31,18.82,Urban,2020.0
+Rajasthan,2020-02-29,17.02,Urban,2020.0
+Rajasthan,2020-03-31,18.54,Urban,2020.0
+Rajasthan,2020-04-30,35.53,Urban,2020.0
+Rajasthan,2020-05-31,25.35,Urban,2020.0
+Rajasthan,2020-06-30,13.04,Urban,2020.0
+Sikkim,2019-05-31,8.2,Urban,2019.0
+Sikkim,2019-06-30,7.76,Urban,2019.0
+Sikkim,2019-07-31,2.56,Urban,2019.0
+Sikkim,2019-08-31,4.82,Urban,2019.0
+Sikkim,2019-09-30,4.81,Urban,2019.0
+Sikkim,2019-10-31,9.68,Urban,2019.0
+Sikkim,2019-11-30,4.04,Urban,2019.0
+Sikkim,2019-12-31,7.37,Urban,2019.0
+Sikkim,2020-03-31,20.45,Urban,2020.0
+Sikkim,2020-04-30,5.77,Urban,2020.0
+Sikkim,2020-05-31,19.75,Urban,2020.0
+Sikkim,2020-06-30,2.63,Urban,2020.0
+Tamil Nadu,2019-05-31,0.89,Urban,2019.0
+Tamil Nadu,2019-06-30,1.56,Urban,2019.0
+Tamil Nadu,2019-07-31,3.18,Urban,2019.0
+Tamil Nadu,2019-08-31,9.53,Urban,2019.0
+Tamil Nadu,2019-09-30,1.86,Urban,2019.0
+Tamil Nadu,2019-10-31,1.13,Urban,2019.0
+Tamil Nadu,2019-11-30,2.65,Urban,2019.0
+Tamil Nadu,2019-12-31,8.05,Urban,2019.0
+Tamil Nadu,2020-01-31,2.05,Urban,2020.0
+Tamil Nadu,2020-02-29,3.31,Urban,2020.0
+Tamil Nadu,2020-03-31,6.46,Urban,2020.0
+Tamil Nadu,2020-04-30,45.55,Urban,2020.0
+Tamil Nadu,2020-05-31,25.95,Urban,2020.0
+Tamil Nadu,2020-06-30,24.93,Urban,2020.0
+Telangana,2019-05-31,1.52,Urban,2019.0
+Telangana,2019-06-30,1.43,Urban,2019.0
+Telangana,2019-07-31,3.73,Urban,2019.0
+Telangana,2019-08-31,4.19,Urban,2019.0
+Telangana,2019-09-30,6.19,Urban,2019.0
+Telangana,2019-10-31,6.74,Urban,2019.0
+Telangana,2019-11-30,5.23,Urban,2019.0
+Telangana,2019-12-31,4.22,Urban,2019.0
+Telangana,2020-01-31,6.49,Urban,2020.0
+Telangana,2020-02-29,6.74,Urban,2020.0
+Telangana,2020-03-31,6.1,Urban,2020.0
+Telangana,2020-04-30,10.5,Urban,2020.0
+Telangana,2020-05-31,36.57,Urban,2020.0
+Telangana,2020-06-30,6.92,Urban,2020.0
+Tripura,2019-05-31,34.69,Urban,2019.0
+Tripura,2019-06-30,25.59,Urban,2019.0
+Tripura,2019-07-31,25.81,Urban,2019.0
+Tripura,2019-08-31,33.45,Urban,2019.0
+Tripura,2019-09-30,33.57,Urban,2019.0
+Tripura,2019-10-31,26.67,Urban,2019.0
+Tripura,2019-11-30,27.15,Urban,2019.0
+Tripura,2019-12-31,33.48,Urban,2019.0
+Tripura,2020-01-31,34.37,Urban,2020.0
+Tripura,2020-02-29,33.88,Urban,2020.0
+Tripura,2020-03-31,25.69,Urban,2020.0
+Tripura,2020-04-30,34.88,Urban,2020.0
+Tripura,2020-05-31,16.78,Urban,2020.0
+Tripura,2020-06-30,27.47,Urban,2020.0
+Uttar Pradesh,2019-05-31,14.4,Urban,2019.0
+Uttar Pradesh,2019-06-30,11.62,Urban,2019.0
+Uttar Pradesh,2019-07-31,11.8,Urban,2019.0
+Uttar Pradesh,2019-08-31,14.73,Urban,2019.0
+Uttar Pradesh,2019-09-30,13.58,Urban,2019.0
+Uttar Pradesh,2019-10-31,10.35,Urban,2019.0
+Uttar Pradesh,2019-11-30,11.31,Urban,2019.0
+Uttar Pradesh,2019-12-31,12.37,Urban,2019.0
+Uttar Pradesh,2020-01-31,12.34,Urban,2020.0
+Uttar Pradesh,2020-02-29,11.65,Urban,2020.0
+Uttar Pradesh,2020-03-31,12.32,Urban,2020.0
+Uttar Pradesh,2020-04-30,26.94,Urban,2020.0
+Uttar Pradesh,2020-05-31,32.06,Urban,2020.0
+Uttar Pradesh,2020-06-30,13.05,Urban,2020.0
+Uttarakhand,2019-05-31,9.17,Urban,2019.0
+Uttarakhand,2019-06-30,4.69,Urban,2019.0
+Uttarakhand,2019-07-31,6.94,Urban,2019.0
+Uttarakhand,2019-08-31,7.43,Urban,2019.0
+Uttarakhand,2019-09-30,9.62,Urban,2019.0
+Uttarakhand,2019-10-31,4.72,Urban,2019.0
+Uttarakhand,2019-11-30,6.34,Urban,2019.0
+Uttarakhand,2019-12-31,7.39,Urban,2019.0
+Uttarakhand,2020-01-31,8.92,Urban,2020.0
+Uttarakhand,2020-02-29,5.28,Urban,2020.0
+Uttarakhand,2020-03-31,8.15,Urban,2020.0
+Uttarakhand,2020-04-30,13.18,Urban,2020.0
+Uttarakhand,2020-05-31,17.36,Urban,2020.0
+Uttarakhand,2020-06-30,5.08,Urban,2020.0
+West Bengal,2019-05-31,7.25,Urban,2019.0
+West Bengal,2019-06-30,7.38,Urban,2019.0
+West Bengal,2019-07-31,7.91,Urban,2019.0
+West Bengal,2019-08-31,7.27,Urban,2019.0
+West Bengal,2019-09-30,7.79,Urban,2019.0
+West Bengal,2019-10-31,7.83,Urban,2019.0
+West Bengal,2019-11-30,6.61,Urban,2019.0
+West Bengal,2019-12-31,7.24,Urban,2019.0
+West Bengal,2020-01-31,7.27,Urban,2020.0
+West Bengal,2020-02-29,7.55,Urban,2020.0
+West Bengal,2020-03-31,6.67,Urban,2020.0
+West Bengal,2020-04-30,15.63,Urban,2020.0
+West Bengal,2020-05-31,15.22,Urban,2020.0
+West Bengal,2020-06-30,9.86,Urban,2020.0
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,

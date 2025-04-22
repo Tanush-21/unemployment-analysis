@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prediction Result</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD...') no-repeat center center;
+      background-size: cover;
+      padding: 60px;
+      color: #222;
+    }
+    .content {
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 40px;
+      border-radius: 15px;
+      max-width: 600px;
+      margin: auto;
+    }
+    h2 {
+      color: #185a9d;
+      text-align: center;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      text-align: center;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <h2>Unemployment Prediction Result</h2>
+
+    <div class="section">
+      <strong>State:</strong> {{ region }}<br>
+      <strong>Area:</strong> {{ area }}<br>
+      <strong>Year:</strong> {{ year }}<br>
+      <strong>Gender:</strong> {{ gender }}<br>
+      <strong>Age:</strong> {{ age }}<br>
+      <strong>Education Level:</strong> {{ education }}
+    </div>
+
+    <div class="section">
+      <h3>Predicted Unemployment Rate: {{ prediction }}%</h3>
+    </div>
+
+    <div class="footer">
+      Final Year Project 2025 | Team: Tanush Aggarwal, Tanishq Rawat, Jagritee Singh<br>
+      AI/ML Based Unemployment Analysis Dashboard
+    </div>
+  </div>
+</body>
+</html>
