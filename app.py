@@ -5,13 +5,15 @@ import pandas as pd
 import json
 import pdfkit
 import sqlite3
+import os
 from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
 app.secret_key = 'thisissecretkeytanush123'  # For session management
 
-# Path to wkhtmltopdf.exe (adjust if needed)
-PDFKIT_CONFIG = pdfkit.configuration(wkhtmltopdf=r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe')
+# ✅ Auto-detect wkhtmltopdf config (Render compatible)
+WKHTML_PATH = '/usr/local/bin/wkhtmltopdf' if os.name != 'nt' else r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe'
+PDFKIT_CONFIG = pdfkit.configuration(wkhtmltopdf=WKHTML_PATH)
 
 # Load model and encoders
 with open('unemployment_model.pkl', 'rb') as file:
@@ -61,17 +63,16 @@ def signup():
 
         conn = sqlite3.connect('users.db')
         cursor = conn.cursor()
-
         try:
             cursor.execute("INSERT INTO users (name, email, password) VALUES (?, ?, ?)", (name, email, password))
             conn.commit()
-            conn.close()
             flash('Signup successful. Please log in.', 'success')
             return redirect('/login')
         except sqlite3.IntegrityError:
-            conn.close()
             flash('Email already registered. Please log in.', 'danger')
             return redirect('/signup')
+        finally:
+            conn.close()
 
     return render_template('signup.html')
 
@@ -88,8 +89,8 @@ def login():
         conn.close()
 
         if user and check_password_hash(user[3], password):
-            session['user'] = user[1]     # name
-            session['email'] = user[2]    # email
+            session['user'] = user[1]
+            session['email'] = user[2]
             flash(f"Welcome, {user[1]}!", 'success')
             return redirect('/')
         else:
@@ -130,7 +131,7 @@ def predict():
         prediction = model.predict(features)
         predicted_rate = round(prediction[0], 2)
 
-        # Update chart data
+        # Chart data
         state_group = data.groupby('Region')['Estimated Unemployment Rate'].mean().sort_values(ascending=False)
         states = state_group.index.tolist()
         state_values = [round(val, 2) for val in state_group.values]
@@ -185,6 +186,3 @@ def download_pdf():
         return response
     except Exception as e:
         return f"Error generating PDF: {str(e)}"
-
-if __name__ == "__main__":
-    app.run(debug=True)
